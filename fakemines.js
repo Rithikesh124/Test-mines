@@ -1,15 +1,3 @@
-// ==UserScript==
-// @name         FakeMines New
-// @namespace    http://tampermonkey.net/
-// @version      4.0
-// @description  Beautiful balance UI, number-only input validation, auto-formatting, and enhanced gameplay
-// @author       anonymous
-// @match        https://stake.ac/*
-// @grant        GM_setValue
-// @grant        GM_getValue
-// @run-at       document-start
-// ==/UserScript==
-
 (function () {
     'use strict';
 
